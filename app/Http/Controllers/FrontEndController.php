@@ -10,4 +10,11 @@ class FrontEndController extends Controller
     {
         return view('frontend.home');
     }
+
+    public function profile(){
+        return view('frontend.partials.companyprofile');
+    }
+    public function contact(){
+        return view('frontend.partials.contact');
+    }
 }

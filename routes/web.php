@@ -12,4 +12,8 @@
 */
 
 Route::get('/', 'FrontEndController@index');
+Route::get('/profile', 'FrontEndController@profile');
+Route::get('/contact', 'FrontEndController@contact');
+
+
 

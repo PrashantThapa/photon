@@ -1469,7 +1469,8 @@ ul.level1 {
     opacity: 0;
     visibility: hidden;
     display: block!important;
-    width: 100%;
+    /*width: 100%;*/
+    width:45%;
     z-index: 10000;
     transform: scale(0) rotate(0deg);
     transition: all 0.4s ease-in-out 0s;
@@ -1645,7 +1646,8 @@ ul.level1 {
     display: inline;
     float: left;
     margin-right: 30px;
-    width: 23.09%;
+    /*width: 23.09%;*/
+    width: 20.6%;
     text-align: center;
     border: 1px #e5e5e5 solid;
     background: #fff
@@ -9302,8 +9304,9 @@ a.button.wishlist {
     width: 49%;
     min-height: 362px;
     background: #fff;
-    border-right: 1px solid #eaeaea;
-    padding: 25px 20px;
+    /*border-right: 1px solid #eaeaea;*/
+    /*padding: 25px 20px;*/
+    padding: 25px 15px;
     margin-bottom: 15px;
 }
 .account-login .col2-set .col-2 {
@@ -13340,4 +13343,16 @@ a.button.wishlist {
     #nav .container {
         width: 1220px;
     }
+}
+.catalog{
+    height:246px;
+}
+
+.underlinehead{
+    background-color: #303030;
+    height: 2px;
+    position: relative;
+    width: 22px;
+    display: block;
+    margin: 0px auto 25px 0px;
 }

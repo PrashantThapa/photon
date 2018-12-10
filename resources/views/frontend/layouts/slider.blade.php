@@ -21,10 +21,21 @@
                                     <div class='tp-caption sfb  tp-resizeme ' data-endspeed='500' data-speed='500' data-start='1500' data-easing='Linear.easeNone' data-splitin='none' data-splitout='none' data-elementdelay='0.1' data-endelementdelay='0.1' style='z-index:4;white-space:nowrap;'><a href='#' class="buy-btn">Buy Now</a> </div>
                                 </div>
                             </li>
+                            <div id="products"></div>
+
+
                         </ul>
+
                     </div>
+
                 </div>
+
             </div>
+
+
            </div>
+
+
     </div>
+
 </div>
